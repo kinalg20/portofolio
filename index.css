@@ -1,0 +1,98 @@
+div#abc{
+    border-style:none;
+    width: 12vw; 
+    height: 12vh; 
+    border-radius: 10px; 
+}
+h1#bcd{
+    text-align: center; 
+    padding: 5px; 
+    font-family: monospace;
+    font-size: 30px;
+}
+li{
+    padding-top: 10px;
+    font-size: 25px;
+    padding-bottom: 15px;
+    border-bottom-style:ridge;
+    border-bottom-width: 2.5px; 
+    width: fit-content
+}
+div#efg{
+    width:50vw ;
+    height: 100vh; 
+    margin-left: 500px; 
+    background-color: white;  
+    position: center;
+    top: 0%; 
+    left: 0%;
+}
+body{
+    background-color: black;
+}
+
+div#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1#text{
+    font-family:monospace; 
+    color:white;
+    font-size: 30px;
+}
+#portal{
+    text-align: center;
+    padding-top: 40px; 
+    font-size: 50px; 
+    font-family: monospace;
+}
+#row{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 25px;
+}
+#div{
+    background-color:rgb(223, 210, 210);
+    padding: 10px;
+    margin: 28px; 
+    border-radius: 10px;
+}
+
+div#div{
+    background-color:rgb(223, 210, 210);
+    padding: 10px;
+    margin: 28px; 
+    border-radius: 10px;
+}
+ol{
+  margin-left: 32px;
+}
+#update{
+    font-size: 50px; 
+    text-align: center;
+     padding-top: 20px; 
+     font-family:monospace;
+}
+.bdeapp{
+    background-color: rgb(212, 235, 243);
+    margin-left: 120px;
+
+}
+.bdmapp{
+    background-color: rgb(226, 213, 238);
+    margin-left: 20px;
+}
+.Panel{
+   background-color: rgb(241, 223, 187);
+   margin-left: 20px;
+}
+.Hoterialapp{
+   background-color: rgb(217, 245, 220); 
+   margin-left: 250px;
+}
+.travelagent{
+    background-color: rgb(165, 239, 241); 
+    margin-left: 20px;
+}
